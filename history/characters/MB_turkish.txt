@@ -1,4 +1,4 @@
-﻿# -*- ck2.history.characters -*-
+# -*- ck2.history.characters -*-
 
 ######################################
 #oghuz Characters
@@ -6061,7 +6061,8 @@ Doger5 = {
 }
 1230158 = {
 	name="Aq-Sunqur"
-	dynasty=1000101764
+	father = bügdüz8
+	dynasty_house = house_oghuzBugduz
 	religion="maturidi"
 	culture="turkish"
 
@@ -6074,7 +6075,7 @@ Doger5 = {
 }
 1230159 = {
 	name="Arslan-Abah"
-	dynasty=1000101764
+	dynasty_house = house_oghuzBugduz
 	religion="maturidi"
 	culture="turkish"
 	father=1230158
@@ -6087,7 +6088,7 @@ Doger5 = {
 }
 1230160 = {
 	name="Falak al-Din"
-	dynasty=1000101764
+	dynasty_house = house_oghuzBugduz
 	religion="maturidi"
 	culture="turkish"
 	father=1230159
@@ -6100,7 +6101,7 @@ Doger5 = {
 }
 1230161 = {
 	name="Karpah-Arslan"
-	dynasty=1000101764
+	dynasty_house = house_oghuzBugduz
 	religion="maturidi"
 	culture="turkish"
 	father=1230159
@@ -6113,7 +6114,7 @@ Doger5 = {
 }
 1230162 = {
 	name="Ahmad"
-	dynasty=1000101764
+	dynasty_house = house_oghuzBugduz
 	religion="maturidi"
 	culture="turkish"
 	father=1230161
@@ -7600,7 +7601,7 @@ death=yes
 1230227 = {
 	name="Salafa Khatun"
 	female=yes
-	dynasty=1000101764
+	dynasty_house = house_oghuzBugduz
 	religion="maturidi"
 	culture="turkish"
 	father=1230162 #fictional tie; but granddaughter of Ala al-Din Karpah-Arslan
