@@ -570,7 +570,7 @@ Zengid3 = {
 
 144044 = {
 	name = "Saltuk"
-	father = 123012366
+	father = 123012365
 	dynasty_house = house_oghuzSaltuk
 	religion = "maturidi"
 	culture = "turkish"
